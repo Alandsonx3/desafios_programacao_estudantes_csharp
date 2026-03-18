@@ -1,0 +1,14 @@
+C:\dev\exercicios_curso_jogos_digitais\bin\Debug\net10.0\exercicios_curso_jogos_digitais.exe
+C:\dev\exercicios_curso_jogos_digitais\bin\Debug\net10.0\exercicios_curso_jogos_digitais.deps.json
+C:\dev\exercicios_curso_jogos_digitais\bin\Debug\net10.0\exercicios_curso_jogos_digitais.runtimeconfig.json
+C:\dev\exercicios_curso_jogos_digitais\bin\Debug\net10.0\exercicios_curso_jogos_digitais.dll
+C:\dev\exercicios_curso_jogos_digitais\bin\Debug\net10.0\exercicios_curso_jogos_digitais.pdb
+C:\dev\exercicios_curso_jogos_digitais\obj\Debug\net10.0\exercicios_curso_jogos_digitais.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicios_curso_jogos_digitais\obj\Debug\net10.0\exercicios_curso_jogos_digitais.AssemblyInfoInputs.cache
+C:\dev\exercicios_curso_jogos_digitais\obj\Debug\net10.0\exercicios_curso_jogos_digitais.AssemblyInfo.cs
+C:\dev\exercicios_curso_jogos_digitais\obj\Debug\net10.0\exercicios_curso_jogos_digitais.csproj.CoreCompileInputs.cache
+C:\dev\exercicios_curso_jogos_digitais\obj\Debug\net10.0\exercicios_curso_jogos_digitais.dll
+C:\dev\exercicios_curso_jogos_digitais\obj\Debug\net10.0\refint\exercicios_curso_jogos_digitais.dll
+C:\dev\exercicios_curso_jogos_digitais\obj\Debug\net10.0\exercicios_curso_jogos_digitais.pdb
+C:\dev\exercicios_curso_jogos_digitais\obj\Debug\net10.0\exercicios_curso_jogos_digitais.genruntimeconfig.cache
+C:\dev\exercicios_curso_jogos_digitais\obj\Debug\net10.0\ref\exercicios_curso_jogos_digitais.dll
