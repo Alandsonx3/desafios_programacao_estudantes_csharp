@@ -1,7 +1,3 @@
-## .NET & Visual Studio - Updated 2025
-## Base: VisualStudio.gitignore + custom adjustments
-## Source: https://github.com/github/gitignore
-
 # User-specific settings
 *.suo
 *.user
